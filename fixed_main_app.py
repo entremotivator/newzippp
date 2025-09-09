@@ -14,7 +14,6 @@ import numpy as np
 import sqlite3
 import hashlib
 import datetime
-import cv2
 from dataclasses import dataclass
 
 # Configure Streamlit page
