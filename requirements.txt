@@ -12,7 +12,6 @@ pathlib
 typing
 dataclasses
 enum34
-sqlite3
 json
 io
 hashlib
