@@ -8,7 +8,6 @@ pandas>=2.0.0
 matplotlib>=3.7.0
 plotly>=5.15.0
 requests>=2.31.0
-base64
 pathlib
 typing
 dataclasses
